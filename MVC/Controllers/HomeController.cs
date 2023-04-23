@@ -2,7 +2,7 @@
 using MVC.Models;
 using System.Diagnostics;
 
-namespace MVC.Controllers
+namespace Project.MVC.Controllers
 {
     public class HomeController : Controller
     {
